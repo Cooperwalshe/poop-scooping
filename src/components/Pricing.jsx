@@ -26,7 +26,6 @@ export default function Pricing() {
             $25
             <span className="text-lg font-medium text-slate-500"> / visit</span>
           </p>
-          <p className="mt-1 text-sm text-slate-500">Average visit runs around $30</p>
           <p className="mt-4 text-sm text-slate-600">
             Your exact price depends on a few factors. We'll send you a custom quote
             before any commitment.
