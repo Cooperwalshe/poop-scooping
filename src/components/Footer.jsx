@@ -18,13 +18,13 @@ export default function Footer() {
             </p>
             <ul className="mt-3 space-y-2 text-sm text-slate-600">
               <li>
-                <a href="tel:+16195550123" className="hover:text-brand-700">
-                  (619) 555-0123
+                <a href="tel:+19142168511" className="hover:text-brand-700">
+                  (914) 216-8511
                 </a>
               </li>
               <li>
-                <a href="mailto:hello@coronadopoopscooping.com" className="hover:text-brand-700">
-                  hello@coronadopoopscooping.com
+                <a href="mailto:cwalshe21@gmail.com" className="hover:text-brand-700">
+                  cwalshe21@gmail.com
                 </a>
               </li>
               <li>Coronado, CA 92118</li>
