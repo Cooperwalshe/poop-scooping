@@ -30,6 +30,9 @@ export default function QuoteForm() {
       })
 
       if (response.ok) {
+        if (typeof window.fbq === 'function') {
+          window.fbq('track', 'Lead')
+        }
         setStatus('success')
         setForm(initialForm)
       } else {
