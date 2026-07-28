@@ -32,8 +32,7 @@ export default function AboutUs() {
             </h2>
             <p className="mt-4 text-slate-600">
               I'm active-duty military, stationed right here at Naval Air Station North
-              Island. Between shifts, I kept hearing the same complaint from homeowners
-              around Coronado: no time to keep up with the mess their dogs leave behind
+              Island and living on the island. I kept hearing the same complaint from my neighbors: no time to keep up with the mess their dogs leave behind
               in the yard.
             </p>
             <p className="mt-4 text-slate-600">
