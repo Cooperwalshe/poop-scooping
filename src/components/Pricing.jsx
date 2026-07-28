@@ -20,13 +20,13 @@ export default function Pricing() {
 
         <div className="mx-auto mt-12 max-w-lg rounded-3xl border border-brand-100 bg-white p-8 text-center shadow-md sm:p-10">
           <p className="text-sm font-semibold uppercase tracking-wide text-brand-600">
-            Average Visit
+            Base Price
           </p>
           <p className="mt-2 text-5xl font-bold text-slate-900">
-            $30
+            $25
             <span className="text-lg font-medium text-slate-500"> / visit</span>
           </p>
-          <p className="mt-1 text-sm text-slate-500">Starting at a $25 base price</p>
+          <p className="mt-1 text-sm text-slate-500">Average visit runs around $30</p>
           <p className="mt-4 text-sm text-slate-600">
             Your exact price depends on a few factors. We'll send you a custom quote
             before any commitment.
