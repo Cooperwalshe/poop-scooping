@@ -3,14 +3,9 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b border-slate-100 bg-white/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
         <a href="#top" className="flex items-center gap-2 font-semibold text-slate-900">
-          <span className="flex h-9 w-9 items-center justify-center rounded-full bg-brand-600 text-white">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" className="h-5 w-5">
-              <path
-                d="M12 3c-2.5 0-4 2-4 4.2 0 1.6 1 3 2.2 3.8-1.4.9-3.2 2.3-3.2 4.5 0 1.4 1.1 2.5 2.5 2.5h5c1.4 0 2.5-1.1 2.5-2.5 0-2.2-1.8-3.6-3.2-4.5C15 10.2 16 8.8 16 7.2 16 5 14.5 3 12 3Z"
-                stroke="currentColor"
-                strokeWidth="1.6"
-                strokeLinejoin="round"
-              />
+          <span className="flex h-9 w-9 items-center justify-center rounded-full border-2 border-red-600 bg-[#0b2545] text-white">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="h-4 w-4">
+              <path d="M11.48 3.499a.562.562 0 011.04 0l2.125 5.111c.076.182.245.306.442.321l5.518.442c.499.04.699.663.321.988l-4.204 3.602a.563.563 0 00-.182.557l1.285 5.386a.562.562 0 01-.84.61l-4.725-2.885a.563.563 0 00-.586 0l-4.725 2.885a.562.562 0 01-.84-.61l1.285-5.386a.563.563 0 00-.182-.557L2.415 10.36a.562.562 0 01.321-.988l5.518-.442a.563.563 0 00.442-.321L11.48 3.5z" />
             </svg>
           </span>
           <span className="leading-tight">
@@ -24,8 +19,8 @@ export default function Header() {
         <nav className="hidden items-center gap-8 text-sm font-medium text-slate-600 md:flex">
           <a href="#how-it-works" className="hover:text-brand-700">How It Works</a>
           <a href="#pricing" className="hover:text-brand-700">Pricing</a>
+          <a href="#about" className="hover:text-brand-700">About</a>
           <a href="#service-area" className="hover:text-brand-700">Service Area</a>
-          <a href="#testimonials" className="hover:text-brand-700">Reviews</a>
         </nav>
 
         <a
