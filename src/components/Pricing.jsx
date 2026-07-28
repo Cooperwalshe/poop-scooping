@@ -23,9 +23,10 @@ export default function Pricing() {
             Average Visit
           </p>
           <p className="mt-2 text-5xl font-bold text-slate-900">
-            $15
+            $30
             <span className="text-lg font-medium text-slate-500"> / visit</span>
           </p>
+          <p className="mt-1 text-sm text-slate-500">Starting at a $25 base price</p>
           <p className="mt-4 text-sm text-slate-600">
             Your exact price depends on a few factors. We'll send you a custom quote
             before any commitment.

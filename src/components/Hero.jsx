@@ -36,7 +36,7 @@ export default function Hero() {
         <dl className="mt-12 grid w-full max-w-xl grid-cols-3 gap-6 border-t border-white/10 pt-8">
           <div>
             <dt className="text-xs uppercase tracking-wide text-brand-200">Starting at</dt>
-            <dd className="mt-1 text-2xl font-bold">$15</dd>
+            <dd className="mt-1 text-2xl font-bold">$25</dd>
             <dd className="text-xs text-brand-200">per visit</dd>
           </div>
           <div>
