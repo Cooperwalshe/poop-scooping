@@ -3,9 +3,9 @@ export default function AboutUs() {
     <section id="about" className="bg-white py-20">
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
         <div className="grid gap-10 sm:grid-cols-2 sm:items-center">
-          <div className="order-2 flex items-center justify-center rounded-3xl border border-slate-100 bg-slate-50 p-10 sm:order-1">
+          <div className="order-2 flex items-center justify-center rounded-3xl border border-brand-100 bg-brand-50 p-10 sm:order-1">
             <div className="text-center">
-              <span className="mx-auto flex h-20 w-20 items-center justify-center rounded-full border-2 border-red-600 bg-[#0b2545] text-white">
+              <span className="mx-auto flex h-20 w-20 items-center justify-center rounded-full border-2 border-gold-400 bg-brand-900 text-gold-400">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" className="h-9 w-9">
                   <path
                     d="M8 3a2 2 0 00-2 2v1.7a2 2 0 00-1.4 1.9v9.4A2.5 2.5 0 007 20.5h10a2.5 2.5 0 002.4-2.5V8.6A2 2 0 0018 6.7V5a2 2 0 00-2-2H8Z"
