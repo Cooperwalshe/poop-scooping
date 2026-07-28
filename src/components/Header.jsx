@@ -19,6 +19,7 @@ export default function Header() {
         <nav className="hidden items-center gap-8 text-sm font-medium text-slate-600 md:flex">
           <a href="#how-it-works" className="hover:text-brand-700">How It Works</a>
           <a href="#pricing" className="hover:text-brand-700">Pricing</a>
+          <a href="#guarantee" className="hover:text-brand-700">Guarantee</a>
           <a href="#about" className="hover:text-brand-700">About</a>
           <a href="#service-area" className="hover:text-brand-700">Service Area</a>
         </nav>

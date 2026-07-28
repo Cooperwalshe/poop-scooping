@@ -2,6 +2,7 @@ import Header from './components/Header.jsx'
 import Hero from './components/Hero.jsx'
 import HowItWorks from './components/HowItWorks.jsx'
 import Pricing from './components/Pricing.jsx'
+import Guarantee from './components/Guarantee.jsx'
 import AboutUs from './components/AboutUs.jsx'
 import QuoteForm from './components/QuoteForm.jsx'
 import ServiceArea from './components/ServiceArea.jsx'
@@ -15,6 +16,7 @@ export default function App() {
         <Hero />
         <HowItWorks />
         <Pricing />
+        <Guarantee />
         <AboutUs />
         <QuoteForm />
         <ServiceArea />
