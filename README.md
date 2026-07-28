@@ -24,7 +24,7 @@ The quote request form posts to Formspree, configured in
 `src/components/QuoteForm.jsx`:
 
 ```js
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xwvgypbr'
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/xjgnlkjj'
 ```
 
 To point it at a different Formspree form, create one at

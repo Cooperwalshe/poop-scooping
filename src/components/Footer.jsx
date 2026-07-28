@@ -23,8 +23,8 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="mailto:hello@coronadopoopscooping.com" className="hover:text-brand-700">
-                  hello@coronadopoopscooping.com
+                <a href="mailto:cooper@coronadopoopscooping.com" className="hover:text-brand-700">
+                  cooper@coronadopoopscooping.com
                 </a>
               </li>
               <li>Coronado, CA 92118</li>
